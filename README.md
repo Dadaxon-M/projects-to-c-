@@ -1,2 +1,2 @@
-# projects-to-c-
+# projects-to-c++
 soatning ishlashi va kredit hisoblash
